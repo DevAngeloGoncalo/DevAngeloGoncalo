@@ -1,6 +1,6 @@
 ### Olá Visitante 
 <a href="https://www.linkedin.com/in/devangelo/">
-  <allign= top alt="Ângelo Gonçalo LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <allign= 'top' alt="Ângelo Gonçalo LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://t.me/SamuraiCeg0">

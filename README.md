@@ -3,10 +3,14 @@
   <img align="left" alt="Ângelo Gonçalo LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/devangelo/">
+  <img align="left" alt="Ângelo Gonçalo LinkedIN" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Fsteam-logo%2F&psig=AOvVaw06cqeJR866HLpzAq4wDVEo&ust=1618715600856000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjAutWnhPACFQAAAAAdAAAAABAE" />
+</a>
+
 
 <br />
 
-Hi, me chamo Ângelo, sou um estudante de ciências da computação, atualmente estagiário Desenvolvedor Delphi na Echo Informática.
+Olá, me chamo Ângelo, sou um estudante de ciências da computação, atualmente estagiário Desenvolvedor Delphi na Echo Informática.
 
 Pretendo trazer muitos desafios e alimentar sempre este portifólio.
 

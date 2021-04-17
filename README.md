@@ -1,10 +1,10 @@
 ### Olá Visitante 
 <a href="https://www.linkedin.com/in/devangelo/">
-  <allign= 'Left' alt="Ângelo Gonçalo LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="Ângelo Gonçalo LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://t.me/SamuraiCeg0">
-  <alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 

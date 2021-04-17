@@ -4,6 +4,8 @@
 </a>
 <br />
 
+
+
 Eu me chamo Ângelo, sou um estudante de ciências da computação, atualmente estagiário Desenvolvedor Delphi na Echo Informática. 
 
 

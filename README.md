@@ -42,6 +42,6 @@ _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e a
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangelogoncalo&show_icons=true&theme=dark&locale=en&layout=compact" alt="devangelogoncalo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devangelogoncalo&show_icons=true&locale=en" alt="devangelogoncalo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devangelogoncalo&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devangelogoncalo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devangelogoncalo&" alt="devangelogoncalo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devangelogoncalo&theme=dark" alt="devangelogoncalo" /></p>

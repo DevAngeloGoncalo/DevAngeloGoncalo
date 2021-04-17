@@ -16,10 +16,12 @@ Olá, me chamo Ângelo, sou um estudante de ciências da computação, atualment
 Utilizando POO, Estrutura de Dados e CRUD com manipulação de banco de dados.
 
 _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e acompanhe minha evolução._
-##
-![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif) 
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<a href="https://t.me/SamuraiCeg0">
+  <img align="Right" alt="Gif" width="350px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />
+</a>
+
+<h3 align="Left">Linguagens e Ferramentas:</h3>
 <p 
   <a>
     <img alt="Delphi" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
@@ -39,3 +41,7 @@ _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e a
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangelogoncalo&show_icons=true&theme=dark&locale=en&layout=compact" alt="devangelogoncalo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devangelogoncalo&show_icons=true&locale=en" alt="devangelogoncalo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devangelogoncalo&" alt="devangelogoncalo" /></p>

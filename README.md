@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/devangelo/">
-  <img align="left" alt="Ângelo Gonçalo LinkedIN" width="64px" src="https://user-images.githubusercontent.com/45950068/115100256-e3cc2780-9f11-11eb-8851-4354eea8636a.png" />
+  <img align="left" alt="Ângelo Gonçalo LinkedIN" width="48px" src="https://user-images.githubusercontent.com/45950068/115100256-e3cc2780-9f11-11eb-8851-4354eea8636a.png" />
 </a>
 
 <br />

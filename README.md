@@ -4,8 +4,9 @@
 </a>
 
 <a href="https://www.linkedin.com/in/devangelo/">
-  <img align="left" alt="Ângelo Gonçalo LinkedIN" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Fsteam-logo%2F&psig=AOvVaw06cqeJR866HLpzAq4wDVEo&ust=1618715600856000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjAutWnhPACFQAAAAAdAAAAABAE" />
+  <img align="left" alt="Ângelo Gonçalo LinkedIN" width="22px" src="https://user-images.githubusercontent.com/45950068/115100256-e3cc2780-9f11-11eb-8851-4354eea8636a.png" />
 </a>
+//![Steam-Logo](https://user-images.githubusercontent.com/45950068/115100256-e3cc2780-9f11-11eb-8851-4354eea8636a.png)
 
 
 <br />

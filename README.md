@@ -15,8 +15,9 @@ Olá, me chamo Ângelo, sou um estudante de ciências da computação, atualment
 
 Utilizando POO, Estrutura de Dados e CRUD com manipulação de banco de dados.
 
-Fique à vontade para entrar em contato.
 _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e acompanhe minha evolução._
+
+Fique à vontade para entrar em contato.
 
 <a href="https://t.me/SamuraiCeg0">
   <img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />

@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/devangelo/">
-  <img align="left" alt="Ângelo Gonçalo Steam" width="48px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img align="left" alt="Ângelo Gonçalo Steam"  src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 
 <br />

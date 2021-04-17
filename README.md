@@ -9,8 +9,13 @@
 </a>
 
 ##
-Olá, me chamo Ângelo, sou um estudante de ciências da computação, atualmente estagiário Desenvolvedor Delphi na Echo Informática.
-Pretendo trazer muitos desafios e alimentar sempre este portfólio.
+Olá, me chamo Ângelo, sou um estudante de ciências da computação, atualmente estagiário Desenvolvedor Delphi na Echo Informática, fazendo tarefas como:
+- Manutenção/Ajustes de telas e Códigos;
+- Criação de Telas e suas funcionalidades utilizando o padrão adotado pela empresa e suas regras de negócio; 
+
+Utilizando POO, Estrutura de Dados e CRUD com manipulação de banco de dados.
+
+_Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e acompanhe minha evolução._
 ##
 ![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif) 
 

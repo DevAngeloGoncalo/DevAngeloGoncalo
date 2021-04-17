@@ -7,8 +7,8 @@
   <img align="left" alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/devangelo/">
-  <img align="left" alt="Ângelo Gonçalo LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="angelo.goncalo87@gmail.com">
+  <img align="left" alt="Ângelo Gonçalo LinkedIN" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/devangelo/">

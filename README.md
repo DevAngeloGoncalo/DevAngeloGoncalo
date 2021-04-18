@@ -13,7 +13,7 @@ Olá, me chamo Ângelo, sou um estudante de ciências da computação, atualment
 - Manutenção/Ajustes de telas e Códigos;
 - Criação de Telas e suas funcionalidades utilizando o padrão adotado pela empresa e suas regras de negócio; 
 
-Utilizando POO, Estrutura de Dados e CRUD com manipulação de banco de dados.
+Utilizando POO, Estrutura de Dados e CRUD com manipulação de banco de dados SQL.
 
 _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e acompanhe minha evolução._
 

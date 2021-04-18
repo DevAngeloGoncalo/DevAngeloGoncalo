@@ -49,4 +49,3 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
 
 <p>&nbsp;<img align="Left" src="https://github-readme-stats.vercel.app/api?username=devangelogoncalo&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devangelogoncalo" /></p>
 
-

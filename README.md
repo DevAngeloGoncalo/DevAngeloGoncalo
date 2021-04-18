@@ -19,7 +19,9 @@ _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e a
 
 Veja os repositórios fixados e fique à vontade para entrar em contato. 
 
-
+<a href="https://t.me/SamuraiCeg0">
+  <img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />
+</a>
 
 <h3 align="Left">Linguagens e Ferramentas:</h3>
 <p 
@@ -45,8 +47,6 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangelogoncalo&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="devangelogoncalo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devangelogoncalo&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devangelogoncalo" /></p>
+<p>&nbsp;<img align="Left" src="https://github-readme-stats.vercel.app/api?username=devangelogoncalo&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devangelogoncalo" /></p>
 
-<a href="https://t.me/SamuraiCeg0">
-  <img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />
-</a>
+

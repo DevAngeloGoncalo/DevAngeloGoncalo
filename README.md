@@ -19,7 +19,7 @@ _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e a
 
 Veja os repositórios fixados e fique à vontade para entrar em contato. 
 
-<a href="">
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F568790627928202477%2F&psig=AOvVaw3C14xtiG6itC4rb7kNSIhB&ust=1618802133016000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOipjoPqhvACFQAAAAAdAAAAABAD">
   <img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />
 </a>
 

@@ -35,15 +35,16 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </a>
   <a>
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a> 
+  <a>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </a>
   <a>
     <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  </a>  
+  </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangelogoncalo&show_icons=true&theme=dark&locale=en&layout=compact" alt="devangelogoncalo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangelogoncalo&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="devangelogoncalo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devangelogoncalo&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devangelogoncalo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devangelogoncalo&theme=dark" alt="devangelogoncalo" /></p>

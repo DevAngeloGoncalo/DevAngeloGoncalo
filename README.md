@@ -19,7 +19,7 @@ _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e a
 
 Veja os repositórios fixados e fique à vontade para entrar em contato. 
 
-<a href="https://t.me/SamuraiCeg0">
+<a href="">
   <img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />
 </a>
 

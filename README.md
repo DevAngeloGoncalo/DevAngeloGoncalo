@@ -9,7 +9,7 @@
 </a>
 
 ##
-Olá, me chamo Ângelo, sou um estudante de ciências da computação, atualmente estagiário Desenvolvedor Delphi na Echo Informática, realizando tarefas como:
+Olá, me chamo Ângelo, sou um estudante de ciências da computação(7° Periodo), atualmente estagiário Desenvolvedor Delphi na Echo Informática, realizando tarefas como:
 - Manutenção/Ajustes de telas e Códigos;
 - Criação de Telas e suas funcionalidades utilizando o padrão adotado pela empresa e suas regras de negócio; 
 

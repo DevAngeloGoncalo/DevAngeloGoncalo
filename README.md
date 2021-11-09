@@ -58,5 +58,14 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
 	</p>
 </details>
 
+<details open>
+    <summary>⚙ <b>GitHub Analytics</b>: </summary>
+    <br>
+    <p align="center">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=higorblands&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=higorblands&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </p>
+</details>
+
 <br>
 

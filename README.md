@@ -49,16 +49,10 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
   <img alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<details open>
-    <summary>⚙ <b>GitHub Analytics</b>: </summary>
-    <br>
-    <p align="center">
-		<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devangelogoncalo&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devangelogoncalo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>		
-	</p>
-</details>
+<h3 align="Left">Estatísticas:</h3>
 
-
-
-<br>
+<p align="center">
+	<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devangelogoncalo&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devangelogoncalo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>		
+</p>
 

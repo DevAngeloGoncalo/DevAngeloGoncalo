@@ -9,6 +9,9 @@
 </a>
 
 ##
+
+img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif"
+
 Olá, me chamo Ângelo, sou um estudante de ciências da computação (7° Periodo), atualmente estagiário Desenvolvedor Delphi na Echo Informática, realizando tarefas como:
 - Manutenção/Ajustes de telas e Códigos;
 - Criação de Telas e suas funcionalidades utilizando o padrão adotado pela empresa e suas regras de negócio; 

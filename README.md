@@ -20,6 +20,9 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
 <h3 align="Left">Linguagens e Ferramentas:</h3>
 <p 
   <a>
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  </a>
+  <a>
     <img alt="Delphi" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
   </a> 
   <a>
@@ -36,6 +39,15 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
   </a>
   <a>
     <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  </a> 
+  <a>
+    <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  </a> 
+  <a>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a> 
+  <a>
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   </a> 
 </p>
 	

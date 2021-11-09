@@ -38,21 +38,17 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
     <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   </a> 
 </p>
-
-<a href="https://t.me/SamuraiCeg0">
-	  <img alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-	</a>
 	
 <h3 align="Left">Contatos:</h3>
-<p align="left"
-	<a href="https://www.linkedin.com/in/devangelo/">
-	  <img alt="Ângelo Gonçalo LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
 
-	<a href="https://t.me/SamuraiCeg0">
-	  <img alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-	</a>
-</p>
+<a href="https://www.linkedin.com/in/devangelo/">
+  <img alt="Ângelo Gonçalo LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://t.me/SamuraiCeg0">
+  <img alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangelogoncalo&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="devangelogoncalo" /></p>
 

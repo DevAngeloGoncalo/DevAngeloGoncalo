@@ -39,6 +39,10 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
   </a> 
 </p>
 
+<a href="https://t.me/SamuraiCeg0">
+	  <img alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+	</a>
+	
 <h3 align="Left">Contatos:</h3>
 <p align="left"
 	<a href="https://www.linkedin.com/in/devangelo/">

@@ -6,9 +6,9 @@
 
 <a href="https://t.me/SamuraiCeg0">
   <img alt="Ângelo Gonçalo Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  
-  <img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />
 </a>
+
+	<img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />
 
 ##
 

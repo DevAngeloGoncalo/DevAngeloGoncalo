@@ -2,7 +2,6 @@
 
 <div>
 	<img align="Right" alt="Gif" width="330px" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif" />
-	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevAngeloGoncalo&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ##
 
@@ -70,4 +69,5 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
 	<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devangelogoncalo&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true"/>
 	<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devangelogoncalo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>		
 </p>
+
 

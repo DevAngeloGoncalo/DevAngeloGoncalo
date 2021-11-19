@@ -33,6 +33,8 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
   </a> 
   <a>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+	
+	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevAngeloGoncalo&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   </a>
   <a>
     <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />

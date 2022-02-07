@@ -5,11 +5,16 @@
 
 ##
 
-Olá, me chamo Ângelo, sou um estudante de ciências da computação (8° Periodo), atualmente estagiário Desenvolvedor Delphi na Echo Informática, realizando tarefas como:
-- Manutenção/Ajustes de telas e Códigos;
-- Criação de Telas e suas funcionalidades utilizando o padrão adotado pela empresa e suas regras de negócio; 
+Sou Ângelo Gonçalo, recém Graduado em Ciências da Computação e entusiasta no desenvolvimento de jogos, experiência de um ano no ramo profissional como estagiário desenvolvedor Delphi.
 
-Utilizando POO, Estrutura de Dados e CRUD com manipulação de banco de dados T-SQL.
+Realizando as seguintes demandas:
+
+-Criação e manutenção de software, utilizando Delphi com linguagem Object Pascal.
+-Criação e manutenção de relatórios utilizando FastReport a partir de Querys SQL.
+-Criação de serviços Windows para leitura automática de arquivos XML, referente a notas fiscais.
+-Auxilio na elaboração de consultas T-SQL, utilizando a ferramenta MICROSOFT SQL SERVER 2017.
+
+Projetos de Desenvolvimento de Jogos 2D, utilizando a ferramenta Unity, linguagem de programação C# e programação Orientada a Objetos.
 
 _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e acompanhe minha evolução._
 

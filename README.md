@@ -10,8 +10,8 @@ Sou Ângelo Gonçalo, recém Graduado em Ciências da Computação e entusiasta 
 Realizando as seguintes demandas:
 
 -Criação e manutenção de software, utilizando Delphi com linguagem Object Pascal.<br>	
--Criação e manutenção de relatórios utilizando FastReport a partir de Querys SQL.	
--Criação de serviços Windows para leitura automática de arquivos XML, referente a notas fiscais.	
+-Criação e manutenção de relatórios utilizando FastReport a partir de Querys SQL.<br>	
+-Criação de serviços Windows para leitura automática de arquivos XML, referente a notas fiscais.<br>	
 -Auxilio na elaboração de consultas T-SQL, utilizando a ferramenta MICROSOFT SQL SERVER 2017.
 	
 Projetos de Desenvolvimento de Jogos 2D, utilizando a ferramenta Unity, linguagem de programação C# e programação Orientada a Objetos.

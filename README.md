@@ -61,6 +61,9 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
 </p>
 <p 
    <a>
+    <img alt=".Net Framework" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+   <a>
     <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
  <a>

@@ -7,7 +7,7 @@
 
 Sou uma pessoa resiliente, autodidata e com grande facilidade de aprendizado, bem comunicativo, encaro desafios como oportunidades únicas e estou  no ramo de tecnologia desde 2018, com experiência profissional comprovada de dois anos. Sigo acompanhando os avanços tecnológicos e me aperfeiçoando para me manter no mercado de trabalho com projetos pessoais e profissionais criativos e interessantes.
 
-# Experiência Profissional:
+### Experiência Profissional:
 
 -Criação e manutenção de software, utilizando Delphi com linguagem Object Pascal.
 	
@@ -19,7 +19,7 @@ Sou uma pessoa resiliente, autodidata e com grande facilidade de aprendizado, be
 	
 -Criação de conversor de Banco de Dados DBF para SQL.
 
-# Experiência com Projetos Pessoais:
+### Experiência com Projetos Pessoais:
 	
 -Simulação de um Menu de criação e distribuição de um personagem de RPG, com salvamento em arquivo TXT, utilizando Linguagem C.
 	
@@ -33,7 +33,8 @@ Sou uma pessoa resiliente, autodidata e com grande facilidade de aprendizado, be
 	
 -Desafios da DIO (Digital Innovation One), em C# com .NET, tais como Sistema de Celular, Sistema de Hospedagem e Sistema de Estacionamento.
 	
-
+###
+	
 _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e acompanhe minha evolução._
 
 Veja os repositórios fixados e fique à vontade para entrar em contato. 

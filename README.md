@@ -69,9 +69,9 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
  <a>
     <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   </a>
-  <a>
 </p>
 <p
+  <a>
     <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   </a> 
   <a>

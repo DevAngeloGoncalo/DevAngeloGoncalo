@@ -42,10 +42,7 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
 </a>
 
 <h3 align="Left">Linguagens e Ferramentas:</h3>
-<p 
-  <a>
-    <img alt="Delphi" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
-  </a> 
+<p  
   <a>
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   </a>
@@ -58,11 +55,14 @@ Veja os repositórios fixados e fique à vontade para entrar em contato.
   <a>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </a>
-  <a>
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <a>
+    <img alt="Delphi" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
   </a>
 </p>
 <p 
+   <a>
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  </a>
  <a>
     <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   </a>

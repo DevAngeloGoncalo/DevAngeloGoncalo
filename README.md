@@ -10,9 +10,13 @@ Sou uma pessoa resiliente, autodidata e com grande facilidade de aprendizado, be
 Experiência Profissional:
 
 -Criação e manutenção de software, utilizando Delphi com linguagem Object Pascal.
+	
 -Criação e manutenção de relatórios utilizando FastReport a partir de Querys SQL.
+	
 -Criação de serviços Windows para leitura automática de arquivos XML, referente a notas fiscais.
+	
 -Auxilio na elaboração de consultas T-SQL, utilizando a ferramenta MICROSOFT SQL SERVER 2017.
+	
 -Criação de conversor de Banco de Dados DBF para SQL.
 
 Experiência com Projetos Pessoais:

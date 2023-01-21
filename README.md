@@ -5,16 +5,24 @@
 
 ##
 
-Sou Ângelo Gonçalo, recém Graduado em Ciências da Computação e entusiasta no desenvolvimento de jogos, experiência de um ano no ramo profissional como estagiário desenvolvedor Delphi.
+Sou uma pessoa resiliente, autodidata e com grande facilidade de aprendizado, bem comunicativo, encaro desafios como oportunidades únicas e estou  no ramo de tecnologia desde 2018, com experiência profissional comprovada de dois anos. Sigo acompanhando os avanços tecnológicos e me aperfeiçoando para me manter no mercado de trabalho com projetos pessoais e profissionais criativos e interessantes.
 
-Realizando as seguintes demandas:
+Experiência Profissional:
 
--Criação e manutenção de software, utilizando Delphi com linguagem Object Pascal.<br>	
--Criação e manutenção de relatórios utilizando FastReport a partir de Querys SQL.<br>	
--Criação de serviços Windows para leitura automática de arquivos XML, referente a notas fiscais.<br>	
+-Criação e manutenção de software, utilizando Delphi com linguagem Object Pascal.
+-Criação e manutenção de relatórios utilizando FastReport a partir de Querys SQL.
+-Criação de serviços Windows para leitura automática de arquivos XML, referente a notas fiscais.
 -Auxilio na elaboração de consultas T-SQL, utilizando a ferramenta MICROSOFT SQL SERVER 2017.
+-Criação de conversor de Banco de Dados DBF para SQL.
+
+Experiência com Projetos Pessoais:
 	
-Projetos de Desenvolvimento de Jogos 2D, utilizando a ferramenta Unity, linguagem de programação C# e programação Orientada a Objetos.
+-Simulação de um Menu de criação e distribuição de um personagem de RPG, com salvamento em arquivo TXT, utilizando Linguagem C.
+-Aplicativo Mobile que calcula regra de 3 simples, utilizando Android Studio e Linguagem Java.
+-Framework ORM em Delphi, com linguagem Object Pascal e MS SQL SERVER.
+-Aplicativo de Delivery, simulando o iFood, de nome "Pede Feira", utilizando Android Studio, linguagem de programação Java e a plataforma Firebase.
+-Desenvolvimento de Jogos 2D, utilizando a ferramenta Unity e linguagem de programação C#, programação Orientada a Objetos.
+-Desafios da DIO (Digital Innovation One), em C# com .NET, tais como Sistema de Celular, Sistema de Hospedagem e Sistema de Estacionamento.
 
 _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e acompanhe minha evolução._
 

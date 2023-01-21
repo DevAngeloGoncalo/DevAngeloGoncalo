@@ -22,11 +22,17 @@ Experiência Profissional:
 Experiência com Projetos Pessoais:
 	
 -Simulação de um Menu de criação e distribuição de um personagem de RPG, com salvamento em arquivo TXT, utilizando Linguagem C.
+	
 -Aplicativo Mobile que calcula regra de 3 simples, utilizando Android Studio e Linguagem Java.
+	
 -Framework ORM em Delphi, com linguagem Object Pascal e MS SQL SERVER.
+	
 -Aplicativo de Delivery, simulando o iFood, de nome "Pede Feira", utilizando Android Studio, linguagem de programação Java e a plataforma Firebase.
+	
 -Desenvolvimento de Jogos 2D, utilizando a ferramenta Unity e linguagem de programação C#, programação Orientada a Objetos.
+	
 -Desafios da DIO (Digital Innovation One), em C# com .NET, tais como Sistema de Celular, Sistema de Hospedagem e Sistema de Estacionamento.
+	
 
 _Pretendo trazer muitos desafios e alimentar sempre este portfólio, me siga e acompanhe minha evolução._
 
